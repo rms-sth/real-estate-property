@@ -1,4 +1,4 @@
-# Real Estate propety business
+# Real Estate propety business (Django)
 ### Overview:
 - Allows admin to upload real estate property to system
 - User can view and contact admin for further inquiry
